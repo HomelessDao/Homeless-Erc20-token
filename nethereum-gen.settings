@@ -1,0 +1,7 @@
+{
+    "projectName": "Homeless",
+    "namespace": "Homeless.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "./Homeless"
+}
